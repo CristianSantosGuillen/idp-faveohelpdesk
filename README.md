@@ -1,7 +1,7 @@
 Faveo Helpdesk – Demo
 =====================
 
-**Introducción**
+##**Introducción**
 
 *Faveo Servicio de Asistencia proporciona a las empresas un sistema de ayuda
 automatizada para gestionar la atención al cliente.*
@@ -33,7 +33,7 @@ premium de pago:*
 
 ![](media/c7b237a419fe2190f246d1b42e35c2f7.png)
 
-**Instalación**
+##**Instalación**
 
 *En mi caso hago uso de la herramienta demo online ya que me fue imposible
 instalar la versión gratuita.*
@@ -51,7 +51,7 @@ los siguientes:*
 
 ![](media/c0d5a35009151986cfda1bb91b4c2ed4.png)
 
-**Uso de la herramienta**
+##**Uso de la herramienta**
 
 *Como hemos nombrado en el apartado anterior, disponemos de 3 ámbitos en la demo
 online. Primero hablare sobre el ámbito del agente:*
@@ -248,7 +248,7 @@ Una vez recibido, el administrador o ellos mismos se lo asignarán para otorgarl
 ayuda cuanto antes. Una vez el usuario encargado de la resolución del problema
 resuelva el mismo, este, concluirá la incidencia.*
 
-*Conclusión*
+##**Conclusión**
 
 -   *Es una herramienta bastante potente y completa.*
 
